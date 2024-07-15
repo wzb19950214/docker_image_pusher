@@ -1,6 +1,1 @@
-postgres:latest
-elasticsearch:8.7.1
-kibana:8.7.1
-openjdk:17
-node:18
-workspace-postgres:latest
+gitpod/workspace-postgres:latest
