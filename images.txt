@@ -1,1 +1,1 @@
-gitpod/workspace-postgres:latest
+rancher/windows_exporter-package:v0.1.0-windows-ltsc2022
