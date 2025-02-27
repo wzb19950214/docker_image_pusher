@@ -1,1 +1,1 @@
-gerritcodereview/gerrit
+cirrusci/flutter:stable
