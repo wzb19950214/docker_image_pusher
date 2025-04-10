@@ -1,1 +1,1 @@
-cirrusci/flutter:stable
+openjdk:11
