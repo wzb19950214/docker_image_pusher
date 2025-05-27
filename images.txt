@@ -1,1 +1,1 @@
-openjdk:11
+seata-server:1.5.1
