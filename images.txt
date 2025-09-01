@@ -1,1 +1,1 @@
-docker pull easysoft/zentao:18.5
+easysoft/zentao:18.5
