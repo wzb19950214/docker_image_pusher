@@ -1,1 +1,1 @@
-yrzr/gitlab-ce-arm64v8:16.1
+yrzr/gitlab-ce-arm64v8:16.2
